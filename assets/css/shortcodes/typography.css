@@ -1,0 +1,88 @@
+h1, h2, h3, h4, h5, h6, h7 {
+	margin: 0 0 15px;
+	font-family: 'Asul', sans-serif;
+	text-transform: uppercase;
+	color: #1b232e;
+	letter-spacing: 1px;
+}
+p {
+	margin: 0 0 25px;
+	line-height: 1.7;
+	font-size: 15px;
+}
+ @media(min-width:768px) {
+p {
+	margin: 0 0 25px;
+	line-height: 1.7;
+}
+}
+.header-strips-one {
+	border-top: 2px solid #9c5b57;
+	height: 1px;
+	margin: 20px 0px 15px;
+	position: relative;
+	width: 70px;
+}
+.parallax .header-strips-one {
+	border-top: 2px solid #ffffff;
+	height: 1px;
+	margin: 20px 0px 15px;
+	position: relative;
+	width: 70px;
+}
+.header-strips-two {
+	border-top: 2px solid #b7c3d1;
+	height: 1px;
+	margin: 20px auto;
+	position: relative;
+	width: 70px;
+}
+.parallax .header-strips-two {
+	border-top: 2px solid #ffffff;
+	height: 1px;
+	margin: 20px auto;
+	position: relative;
+	width: 70px;
+}
+.heading h2 {
+	font-size: 30px;
+}
+.heading h3 {
+	font-size: 18px;
+}
+.heading h5 {
+	font-size: 16px;
+}
+.subheading {
+	margin-top:25px;
+	margin-bottom:25px;
+	font-size: 18px;
+
+}
+
+
+}
+.subheading-2 {
+	font-size: 18px;
+}
+h2.cap-font
+{
+	font-size:25px;
+}
+
+.light-font {
+	font-weight: 300;
+}
+.medium-font {
+	font-size: 500;
+}
+.bold-font {
+	font-weight: 700;
+}
+.xtra-bold-font {
+	font-weight: 900;
+}
+.italic-font {
+	font-style: italic;
+	font-family: 'PT Serif', serif;
+}

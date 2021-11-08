@@ -1,0 +1,79 @@
+.icon-box-v1 {
+	padding: 5% 3%;
+}
+.icon-holder {
+	color: #2b303b;
+	margin-bottom: 10px;
+}
+.heading h3 {
+	font-size: 21px;
+}
+.icon-sm {
+	font-size: 25px;
+}
+.icon-md {
+	font-size: 30px;
+}
+.icon-lg {
+	font-size: 40px;
+}
+.icon-rounded {
+	padding: 5.5% 6%;
+	border-radius: 50%;
+}
+.color-icons i {
+	color: #ffffff;
+}
+.parallax i {
+	color: #ffffff;
+}
+.icon-box-v2 .content-holder {
+	padding-left: 50px;
+}
+.icon-content-v3 {
+	margin-top: 30px;
+}
+.icon-content-v4 {
+	margin-top: 25px;
+}
+.icon-box-v3 {
+	text-align: center;
+}
+.icon-holder-v3 {
+	margin-bottom: 10px;
+}
+
+
+.bg-circle i
+{   background-color: #1b232e;
+    color: #ffffff !important;
+    padding: 20px;
+    border-radius: 50%;
+}
+.icon-box {
+	text-align: center;
+	padding: 20px 15px 15px;
+	transition: all 0.5s ease-in-out 0s;
+}
+.icon-box:hover {
+	background-color: #fff;
+	-webkit-box-shadow: 0 7px 6px -6px #d9d9d9;
+	-moz-box-shadow: 0 7px 6px -6px #d9d9d9;
+ box-shadow: 0 7px 6px -6px #d9d9d9  transition: all 0.5s ease-in-out 0s;
+}
+
+.icon-box h3
+{
+	font-size: 20px;
+}
+.icon-box i {
+	font-size: 50px;
+	margin-bottom: 20px;
+	color: #1b232e
+}
+@media (max-width:767px) {
+.icon-box i {
+	margin-top: 5%;
+	margin-bottom: 5%
+}
+}

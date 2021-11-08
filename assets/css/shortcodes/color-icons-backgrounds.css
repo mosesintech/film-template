@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.color-1
+{
+	background-color:#46b9e8;
+}
+
+.color-2
+{
+	background-color:#4bd2cc;
+}
+
+.color-3
+{
+	background-color:#52ebb3;
+}
+
+
+.color-1 p,
+.color-1 h1,
+.color-1 h2,
+.color-1 h3,
+.color-1 h4,
+.color-1 h5,
+.color-1 i
+{
+	color:#ffffff;
+}
+
+
+
+
+.color-2 p,
+.color-2 h1,
+.color-2 h2,
+.color-2 h3,
+.color-2 h4,
+.color-2 h5,
+.color-2 i
+{
+	color:#ffffff;
+}
+
+
+
+
+.color-3 p,
+.color-3 h1,
+.color-3 h2,
+.color-3 h3,
+.color-3 h4,
+.color-3 h5,
+.color-3 i
+{
+	color:#ffffff;
+}
+
+
+
+
+
+
+.color-1-text
+{
+	color:#46b9e8;
+}
+
+.color-2-text
+{
+	color:#4bd2cc;
+}
+
+.color-3-text
+{
+	color:#52ebb3;
+}
+
+
+
+
+.color-1-icon i
+{
+	color:#46b9e8;
+}
+
+.color-2-icon i
+{
+	color:#4bd2cc;
+}
+
+.color-3-icon i
+{
+	color:#52ebb3;
+}
